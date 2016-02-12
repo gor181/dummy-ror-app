@@ -1,3 +1,4 @@
 == README
 
 Just a dummy rails app, for a started.
+Deployed to Heroku at https://demo-rails-app-udosic.herokuapp.com
